@@ -1,0 +1,19 @@
+[1] http://127.0.0.1/test/2.php 成功:
+<br />
+<b>Warning</b>:  system(): Cannot execute a blank command in <b>E:\phpStudy_64\phpstudy_pro\WWW\test\2.php</b> on line <b>123</b><br />
+ 
+
+[2] http://127.0.0.1/test/2.php 成功:
+<br />
+<b>Warning</b>:  system(): Cannot execute a blank command in <b>E:\phpStudy_64\phpstudy_pro\WWW\test\2.php</b> on line <b>123</b><br />
+ 
+
+[3] http://127.0.0.1/test/1.php 成功:
+<html>
+
+</html>
+
+
+[4] http://127.0.0.1/test/3.php 成功:
+
+
